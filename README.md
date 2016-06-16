@@ -2,5 +2,5 @@
 
 first steps
 
-Hi, I'm herer just to learn the firsts steps about GitHub. 
+Hi, I'm here just to learn the firsts steps about GitHub. 
 =)
